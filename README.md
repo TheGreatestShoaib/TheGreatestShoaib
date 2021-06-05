@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Shoaib Islam and i am a intermediate level Python developer.
+I am not working professionaly yet so i do various kind of interesting things that i like to do or i think to do like doing problem solving , data & algo , math stuffs etc.
+I Have done few projects so far , And i do highly appriciate to collaborate in interesting stuffs. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGreatestShoaib&show_icons=true&theme=tokyonight)
