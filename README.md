@@ -39,7 +39,7 @@ https://shoaib-islam.medium.com/python-built-in-functions-for-beginners-e2ebdfdc
 
 <br/><hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatestShoaib)](https://github.com/TheGreatestShoaib)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatestShoaib)
 
 
 
