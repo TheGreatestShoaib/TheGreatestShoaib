@@ -40,7 +40,7 @@ https://shoaib-islam.medium.com/python-built-in-functions-for-beginners-e2ebdfdc
 <br/><hr/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegreatestshoaib&show_icons=true&locale=en&layout=compact" alt="thegreatestshoaib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegreatestshoaib&exclude_repo=BackupFiles&show_icons=true&locale=en&layout=compact" alt="thegreatestshoaib" /></p>
 
 
 
