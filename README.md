@@ -11,7 +11,6 @@ I Have done few projects so far And i highly appriciate to collaborate in intere
 <br>
 <br>
 <br>
-<img align="center" src="https://count.getloli.com/get/@DroidHacker0?theme=moebooru">
 
 <div>
  </div>
